@@ -27,7 +27,7 @@ Universitetet mund të përfitojnë nga bashkëpunimi me Pluralsight duke u ofru
 
 Pluralsight mund të përballet me konkurrencë nga platforma të tjera dhe kompani të mëdha teknologjike që mund të krijojnë shërbime të ngjashme. Gjithashtu, ndryshimet e shpejta teknologjike kërkojnë përditësim të vazhdueshëm të kurseve. Për t'u mbrojtur, kompania duhet të investojë në cilësinë e trajnimeve, të bashkëpunojë me ekspertë dhe të ofrojë shërbime që plotësojnë nevojat e klientëve.
 
-## 4. Përfundim
+## 2. Përfundim
 
 Nga ky rast studimi kuptojmë se platformat si Pluralsight kanë një rol të rëndësishëm në zhvillimin e aftësive teknologjike. Ato ndihmojnë individët dhe kompanitë të përshtaten me ndryshimet e tregut të punës. Edhe në Shqipëri, trajnimi online mund të kontribuojë në përgatitjen e specialistëve të rinj dhe në zvogëlimin e mungesës së aftësive teknologjike.
 
