@@ -1,26 +1,7 @@
 # PROJEKT – SISTEMET E INFORMACIONIT
 ## Rast Studimi: Pluralsight
 
-**Lënda:** Sisteme Informacioni  
-**Tema:** Analizimi i modelit të biznesit të Pluralsight
-
-## 1. Hyrje
-
-Pluralsight është një platformë online që ofron kurse dhe trajnime në fusha të ndryshme të teknologjisë, si programimi, siguria kibernetike dhe analiza e të dhënave. Qëllimi i këtij projekti është të analizojë përfitimet e trajnimit online, rëndësinë e aftësive teknologjike dhe mundësitë e zhvillimit të kësaj platforme.
-
-## 2. Kursi i zgjedhur në Pluralsight
-
-**Emri:** Python for Cyber Defense  
-**Platforma:** Pluralsight  
-**Link:** https://www.pluralsight.com/paths/python-for-cyber-defense
-
-Ky program mësimor përfshin 6 kurse, 2 laboratorë praktikë dhe rreth 11 orë mësim. Ai fokusohet në përdorimin e Python për sigurinë kibernetike.
-
-**Lidhja me tregun shqiptar:**
-
-Ky kurs lidhet me tregun shqiptar sepse siguria kibernetike është një fushë ku kërkohen gjithnjë e më shumë specialistë. Sipas studimit të tregut ICT në Shqipëri të vitit 2025, mungesa e aftësive në sigurinë kibernetike ishte 25.3%. Prandaj, njohuritë e këtij kursi mund të jenë të dobishme për personat që dëshirojnë të punojnë në sektorin e teknologjisë në Shqipëri.
-
-## 3. Përgjigjet e pyetjeve
+## 1. Përgjigjet e pyetjeve
 
 ### 1-10. Go to http://pluralsight.com and search for a course you might be interested in taking. What is attractive to you about online versus traditional training?
 
@@ -50,9 +31,4 @@ Pluralsight mund të përballet me konkurrencë nga platforma të tjera dhe komp
 
 Nga ky rast studimi kuptojmë se platformat si Pluralsight kanë një rol të rëndësishëm në zhvillimin e aftësive teknologjike. Ato ndihmojnë individët dhe kompanitë të përshtaten me ndryshimet e tregut të punës. Edhe në Shqipëri, trajnimi online mund të kontribuojë në përgatitjen e specialistëve të rinj dhe në zvogëlimin e mungesës së aftësive teknologjike.
 
-## 5. Burimet
 
-1. Pluralsight – Python for Cyber Defense: https://www.pluralsight.com/paths/python-for-cyber-defense
-2. Pluralsight – Kurset dhe trajnimet: https://www.pluralsight.com/browse
-3. Albanian-American Development Foundation – ICT Labor Market Research in Albania 2025: https://www.aadf.org/wp-content/uploads/2026/04/ICT-Labor-Market-Research-in-Albania-2025.pdf
-4. Albanian-American Development Foundation – Albania's ICT Market: https://www.aadf.org/albanias-ict-market-is-maturing-and-going-global-but-talent-retention-remains-the-key-challenge/
